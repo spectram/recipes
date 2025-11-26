@@ -4,4 +4,4 @@
 * Lime
 * Salt
 ## Instructions
-* Make it
+* Meke it
